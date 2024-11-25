@@ -1,7 +1,3 @@
-Here's the enhanced and polished **GitHub README** for **Cluster**, now featuring your logo and an improved layout:
-
----
-
 <p align="center">
   <img src="https://i.postimg.cc/s2qJvxcN/logg2.png" alt="Cluster Logo" width="200"/>
 </p>
