@@ -62,7 +62,7 @@ Cluster interprets natural language commands to execute blockchain operations, i
 
 #### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/cluster.git
+git clone https://github.com/AIcrafterDev/SolanaCluster.git
 cd cluster
 ```
 
