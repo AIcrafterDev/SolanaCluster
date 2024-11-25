@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>AI-driven Solana trading made simple.</b><br>
-  Natural language commands to automate transfers, DEX trading, sniping, and portfolio management.
+  Natural language commands recognized by AI to automate transfers, DEX trading, sniping, and portfolio management based on simple commands.
 </p>
 
 ---
